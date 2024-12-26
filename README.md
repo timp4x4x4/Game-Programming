@@ -2,7 +2,6 @@
 
 ## 資管系 遊戲設計課程專案
 
-**作者**: [ZhenXiang6](https://github.com/ZhenXiang6)  
 **GitHub 儲存庫**: [Game_Programming_BBJ](https://github.com/ZhenXiang6/Game_Programming_BBJ)  
 **遊戲成果展示**: [Block by James](https://zerotwo0818.itch.io/block-by-james)
 
